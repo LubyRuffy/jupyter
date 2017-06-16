@@ -8,13 +8,14 @@
 pip install virtualenv
 创建环境
 ```
+> cd %HOMEPATH%
 > mkdir tensorflow
 > cd tensorflow
 > virtualenv --no-site-packages tensorflow
 ```
 启动
 ```
-> tensorflow\Scripts\activate
+> %HOMEPATH%\tensorflow\tensorflow\Scripts\activate
 ```
 
 4. tensorflow
